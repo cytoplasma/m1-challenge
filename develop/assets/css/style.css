@@ -1,4 +1,4 @@
-/* universal selectors */
+/* universal || global selectors */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -45,6 +45,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* compiled redundant header selectors together */
 .navbar-links {
     padding-top: 15px;
     margin-right: 20px;
