@@ -4,7 +4,7 @@
 
 The main goal of this Module 1 Challenge personally, was to strengthen my sense for debugging & optimizing code using the minimum amount of lines. Within this project, I was able to do just that, along with learning techniques for efficiency such as: editing multiple lines of code at once, utilizing keybinds/macros, and honing my organizational skills
 
-![fully finished & optimized website page](./develop/assets/images/website.png)
+![fully finished & optimized website page](./docs/assets/images/website.png)
 
 ## Installation
 
