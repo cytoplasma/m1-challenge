@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-To access the deployed page, press the following link: [in-line-link]](https://cytoplasma.github.io/m1-challenge/ Here") To refer to the documentation, open the Chrome DevTools by pressing Command+Option+I(macOS) or Control+Shift+I(Windows)
+To access the deployed page, press the following link: [in-line-link]](https://cytoplasma.github.io/m1-challenge/ "Here") To refer to the documentation, open the Chrome DevTools by pressing Command+Option+I(macOS) or Control+Shift+I(Windows)
 
 ## Credits
 
